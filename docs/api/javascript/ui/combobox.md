@@ -983,7 +983,7 @@ The [data source](/api/javascript/data/datasource) of the widget. Configured via
     </script>
 
 ### input `jQuery`
-A jQuery object of the visible input element, where the user types.
+A jQuery object of the visible input element, where the user types.  -- used
 
 #### Example - get input element
 
